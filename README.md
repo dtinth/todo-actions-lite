@@ -2,7 +2,7 @@
 
 Like [`todo-actions`](https://github.com/dtinth/todo-actions) but more lightweight.
 
-TODO: Write more information about what this project is about
+TODO: #1 Write more information about what this project is about
 
 ## Differences
 

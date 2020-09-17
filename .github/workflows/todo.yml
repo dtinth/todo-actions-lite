@@ -12,7 +12,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           ruby << 'EOF'
-            # TODO: Extract this code into its own file
+            # TODO: #2 Extract this code into its own file
             require 'json'
 
             def comment_on issue, message
